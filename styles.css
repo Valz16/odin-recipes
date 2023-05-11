@@ -1,0 +1,15 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+ body
+ {
+    background-image: linear-gradient(to right,skyblue, gray);
+ }
+
+ .container
+ {
+    text-align: center;
+ }
+
+ 
